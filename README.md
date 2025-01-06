@@ -56,7 +56,7 @@ This will be the majority of your time in class on Thursday - Final.  Work on th
 
 ## Present your Model
 
-During the 2nd half of the final class period, you will be presenting your model to the class.  You can either create a slides presentation or just show your program and talk about it.  Here are the things that I would like to see in each presentation:
+On the Thursday after finals, you will be presenting your model to the class.  You can either create a slides presentation or just show your program and talk about it.  Here are the things that I would like to see in each presentation:
 1. What was your dataset and where did you get it from (source).
 2. Did you have to do any preprocessing to your dataset? If so, why did you choose what you did?
 3. Graphs showing the relationship and why you chose whichever model you decided to use.
